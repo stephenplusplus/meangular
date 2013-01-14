@@ -10,7 +10,7 @@ This will be a mini-series on the evolving tale of mine and Angular's relationsh
 
 ## mvw?
 
-The most important thing I've learned about MVC is that nobody knows what it is. I stand behind this statement with about 95% certainty. To me, this isn't a bad thing. MVC is a collection of helpful patterns arranged in a way that urges the separation of concerns. As long as you abide by that interpretation of the architectural pattern, you're good. _Bend it, don't break it, and __ship it__._
+The most important thing I've learned about MVC is that nobody knows what it is. I stand behind this statement with about 95% certainty. To me, this isn't a bad thing. MVC is a collection of helpful patterns arranged in a way that urges the separation of concerns. As long as you abide by that interpretation of the architectural pattern, you're good. _Bend it, don't break it, and **ship it**._
 
 Angular seems to agree with that general idea, which is why they've labeled it _M-V-W_. I'll save you the deep Googling; it stands for __Model-View-Whatever__. The developers took bites out of several different patterns and spit out their own definition of what makes a successful web app.
 
@@ -47,7 +47,7 @@ Angular takes advantage of JavaScript being __everywhere__, and lets you sprinkl
 
 The HTML specification is a big, long rule book that says what you can and can't do with the language if you want your file to be _valid_ and understood by all the different browsers out there. It's what says `<a>` represents an anchor, or link. It's also what says `<uploader>` is _not_ a recognized tag.
 
-Angular stands between you, the developer, and the specification implementer, the browser. If you tell Angular _`<uploader>` is a tag, damn it_, Angular tells the browser, ___`<uploader>` is a tag, damn it!___
+Angular stands between you, the developer, and the specification implementer, the browser. If you tell Angular *`<uploader>` is a tag, damn it*, Angular tells the browser, ***`<uploader>` is a tag, damn it!***
 
 If you have some kind of crazy, file uploading site, wouldn't it be nice to just say...
 
@@ -107,7 +107,7 @@ Speaking of complex JavaScript, let's see if we can figure out what those zany A
 
 ### `w`
 
-___Like, omg, just-- w/e.___
+****Like, omg, just-- w/e.****
 
 If you've played around with the many different MVC frameworks out there, you may have said something like that when trying to figure out what goes where. The Angular devs seemed to appreciate the multiple personality disorder, MPD, MVC has taken on, and thought they would be honest about their contribution to the confusion.
 
