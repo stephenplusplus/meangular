@@ -26,7 +26,7 @@ Did you ever do a `<font size="3" face="verdana" color="red">`? How nice was it 
 
 Of course, CSS is a wonderful thing. Using repeatable modules of style rules throughout your site not only offers developer sanity, but improved performance. However, imagine a world where __the convenience of structuring a _document_ high-fived the art of _web application_ architecture__.
 
-#### angular is that high-five.
+#### angular _views_ are that high-five.
 
 When you see a `<p>`, there's your paragraph.
 
