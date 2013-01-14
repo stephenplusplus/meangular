@@ -47,7 +47,7 @@ Angular takes advantage of JavaScript being __everywhere__, and lets you sprinkl
 
 The HTML specification is a big, long rule book that says what you can and can't do with the language if you want your file to be _valid_ and understood by all the different browsers out there. It's what says `<a>` represents an anchor, or link. It's also what says `<uploader>` is _not_ a recognized tag.
 
-Angular stands between you, the developer, and the specification implementer, the browser. If you tell Angular *`<uploader>` is a tag, damn it*, Angular tells the browser, ***`<uploader>` is a tag, damn it!***
+Angular stands between you, the developer, and the specification implementer, the browser. If you tell Angular `<uploader>` *is a tag, damn it*, Angular tells the browser, `<uploader>` **is a tag, damn it!**
 
 If you have some kind of crazy, file uploading site, wouldn't it be nice to just say...
 
@@ -107,7 +107,7 @@ Speaking of complex JavaScript, let's see if we can figure out what those zany A
 
 ### `w`
 
-****Like, omg, just-- w/e.****
+**Like, omg, just-- w/e.**
 
 If you've played around with the many different MVC frameworks out there, you may have said something like that when trying to figure out what goes where. The Angular devs seemed to appreciate the multiple personality disorder, MPD, MVC has taken on, and thought they would be honest about their contribution to the confusion.
 
