@@ -1,3 +1,7 @@
+## pretty edition.
+In case anybody wants to check out a slightly prettier edition of this article, the fine template designers at GitHub hooked me up:
+* [Pretty Edition](http://stephenplusplus.github.com/meangular)
+
 ## me&ngular.
 
 If you haven't already, I highly encourage you to check out Angular. The first time I looked at it, I thought, _"ew! All of that 'ng-'' stuff in the markup? Gross!"_ If you're thinking the same thing, __remember this feeling__. Being introduced to something that makes you think in a completely new way doesn't come along often. When it does, embrace it. It will keep you employable, if that's your concern. But more than that, it will expand your comfort zone.
