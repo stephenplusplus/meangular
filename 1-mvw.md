@@ -68,7 +68,7 @@ Let's look at another quick example of this __declarative__ approach.
 Ever try something like this?
 
     var displayUsers = function () {
-      $.post('/api/users', function(res){
+      $.get('/api/users', function(res){
         $.each(res.users, function(i, user){
           insertUserBios(user);
         });
